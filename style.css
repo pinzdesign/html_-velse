@@ -34,4 +34,5 @@ header, footer {
     section {
         flex-direction: column;
     }
+    article {width: 100%;}
 }
